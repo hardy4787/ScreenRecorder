@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScreenRecorder", "ScreenRecorder\ScreenRecorder.csproj", "{0729064D-23FB-4BEF-909B-84217CA0BA79}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ScreenRecorderSetup", "ScreenRecorderSetup\ScreenRecorderSetup.vdproj", "{D584723D-D34A-4E63-98ED-B5023D596528}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0729064D-23FB-4BEF-909B-84217CA0BA79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0729064D-23FB-4BEF-909B-84217CA0BA79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0729064D-23FB-4BEF-909B-84217CA0BA79}.Debug|x64.ActiveCfg = Debug|x64
+		{0729064D-23FB-4BEF-909B-84217CA0BA79}.Debug|x64.Build.0 = Debug|x64
+		{0729064D-23FB-4BEF-909B-84217CA0BA79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0729064D-23FB-4BEF-909B-84217CA0BA79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0729064D-23FB-4BEF-909B-84217CA0BA79}.Release|x64.ActiveCfg = Release|x64
+		{0729064D-23FB-4BEF-909B-84217CA0BA79}.Release|x64.Build.0 = Release|x64
+		{D584723D-D34A-4E63-98ED-B5023D596528}.Debug|Any CPU.ActiveCfg = Debug
+		{D584723D-D34A-4E63-98ED-B5023D596528}.Debug|x64.ActiveCfg = Debug
+		{D584723D-D34A-4E63-98ED-B5023D596528}.Release|Any CPU.ActiveCfg = Release
+		{D584723D-D34A-4E63-98ED-B5023D596528}.Release|x64.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0052B8E3-8EF6-42FE-9FA7-51546163054E}
+	EndGlobalSection
+EndGlobal
